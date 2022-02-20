@@ -1,7 +1,7 @@
 # Calculator
 Takes input and outputs specific calculations
 
-I wanted to share one of the very first programs I had to create for my Java course. As of now I am leaving the code as is (although I wish to make various adjustments). But I find it useful to have an old file available so that I can look back on this and see how my jounrey began. 
+I wanted to share one of the very first programs I had to create for my Java course. As of now I am leaving the code as is (although I wish to make various adjustments). But I find it useful to have an old file available so that I can look back on this and see how my journey began. 
 
 
 Details about this program:
