@@ -3,7 +3,7 @@ package kendallmlab2;
 
 import java.util.Scanner;
 
-//This program was created in my earlier semesters of Computer Science and is here to show my imporvement compared to a my current knowledge 
+//This program was created in my earlier semesters of Computer Science and is here to show the difference in where I am currently at with my knowledge 
 //(Check out my file named "Exception and Writing to file" for a more up to date version of my coding style)
 public class KendallMLab2 {
     
